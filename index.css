@@ -1,0 +1,12 @@
+body {
+    background-color: silver;
+    align-items: center;
+    text-align: center;
+    padding: 20%;
+}
+#temperature-input {
+    margin-bottom: 10px;
+}
+#result {
+    font-weight: bold;
+}
